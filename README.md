@@ -39,5 +39,9 @@ SECTION 4 - TAXABLE ACCOUNT - including income and income growth throughout 23yr
 This is a final section with a calculator for the optimal strategy given...
 
 a) initial TC
+
 b) TC percent growth rate
+
 c) percent of TC put towards savings
+
+Note - massive bias towards TQQQ that is unwarranted for any sane risk.
